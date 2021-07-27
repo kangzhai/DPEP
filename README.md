@@ -1,2 +1,2 @@
-# PMLIPAEP
-Mining plant endogenous target mimics from miRNA-lncRNA interactions based on adaptive ensemble pruning
+# DPEP
+Mining plant endogenous target mimics from miRNA-lncRNA interactions based on dual-path ensemble pruning
