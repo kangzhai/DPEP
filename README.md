@@ -21,7 +21,7 @@ Kreas 2.2.4
 6 decision base models. DM1 indicates the decision model trained by Decision training set 1. The other decision models use the same naming rule. The details of decision training sets are shown in our paper.
 
 ### Example folder
-The examples of input. This input format can'nt be changed, otherwise it may cause the program error. This input format can be obtained directly through RNAfold in ViennaRNA package.
+The examples of input. This input format can't be changed, otherwise it may cause the program error. This input format can be obtained directly through RNAfold in ViennaRNA package.
 
 
 
@@ -72,4 +72,4 @@ When using "PmliPEMG.py" to the predict unlabeled samples, the input must be the
 # Reference
 If you use the codes, please cite the reference as below.
 
-Qiang Kang, Jun Meng, Wenhao Shi, Yushi Luan. Ensemble deep learning based on multi-level information enhancement and greedy fuzzy decision for plant miRNA-lncRNA interaction prediction. Interdisciplinary Sciences: Computational Life Sciences. https://doi.org/10.1007/s12539-021-00434-7
+The paper has been submitted, please wait for updating.
