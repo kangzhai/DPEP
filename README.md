@@ -21,15 +21,17 @@ Kreas 2.2.4
 6 decision base models. DM1 indicates the decision model trained by Decision training set 1. The other decision models use the same naming rule. The details of decision training sets are shown in our paper.
 
 ### Example folder
-The examples of input. This input format can't be changed, otherwise it may cause the program error. This input format can be obtained directly through RNAfold in ViennaRNA package.
+The examples of input. This input format can't be changed, otherwise it may cause the program error. This format can be obtained directly by using RNAfold (a RNA secondary structure extraction tool) in ViennaRNA package. The latest version of ViennaRNA package can be also downloaded from https://www.tbi.univie.ac.at/RNA/.
 
+# Usage
+Open the console or powershell in the local folder and copy the following commands to run DPEP. It is also feasible to run the codes using python IDE (such as pyCharm).
 
+# Reference
+If you use the codes, please cite the reference as below.
 
+The paper has been submitted, please wait for updating.
 
-
-
-
-###################################
+#########################################################################################################
 
 ### Path.py
 Paths of input and output.
@@ -66,10 +68,4 @@ Explanation:
 
 It is the source code of cross validation mentioned in the paper, which can help the users repeat our experiment. It also shows the source code of the base model. Since the original data set was too large to upload, we compressed it as a ".zip" file. Before executing this code, the users need to unzip the "TrainingValidaitonSet.zip" in the "Example" folder to the current directory. This will be a relatively long process due to the need to retrain the base models. In addition to repeating the experiment, we hope that the code provides a valuable reference for users' research.
 
-### Install-ViennaRNA-2.4.10_64bit.exe
-When using "PmliPEMG.py" to the predict unlabeled samples, the input must be the correct format. The input format can be referred to "miRNA" and "lncRNA" in "Example" folder. This format can be obtained directly by using RNAfold (a RNA secondary structure extraction tool) in ViennaRNA package. Install-ViennaRNA-2.4.10_64bit.exe is the installation of ViennaRNA package that contains RNAfold. The latest version of ViennaRNA package can be also downloaded from https://www.tbi.univie.ac.at/RNA/. 
 
-# Reference
-If you use the codes, please cite the reference as below.
-
-The paper has been submitted, please wait for updating.
