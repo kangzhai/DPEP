@@ -23,6 +23,9 @@ Kreas 2.2.4
 ### Example folder
 The examples of input. This input format can't be changed, otherwise it may cause the program error. This format can be obtained directly by using RNAfold (a RNA secondary structure extraction tool) in ViennaRNA package. The latest version of ViennaRNA package can be also downloaded from https://www.tbi.univie.ac.at/RNA/.
 
+### Path.py
+Paths of input and output.
+
 # Usage
 Open the console or powershell in the local folder and copy the following commands to run DPEP. It is also feasible to run the codes using python IDE (such as pyCharm).
 
@@ -33,8 +36,7 @@ The paper has been submitted, please wait for updating.
 
 #########################################################################################################
 
-### Path.py
-Paths of input and output.
+
 
 ### DataProcessing.py
 Function of data processing.
