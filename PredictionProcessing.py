@@ -25,9 +25,9 @@ def ConvertLabel(EnsembleScoreVector, ListPair, it):
         miRNAname, lncRNAname, miRNAsequence, lncRNAsequence, miRNAstructure, lncRNAstructure = Sample.split(',')
         score = EnsembleScoreVector[indresult]
         if score >= 0.5:
-            StrResult = miRNAname + ',' + lncRNAname + ',' + ',' + str(score) + ',' + 'Interaction\n'
+            StrResult = miRNAname + ',' + lncRNAname + ',' + str(score) + ',' + 'Interaction\n'
         else:
-            StrResult = miRNAname + ',' + lncRNAname + ',' + ',' + str(score) + ',' + 'Non-Interaction\n'
+            StrResult = miRNAname + ',' + lncRNAname + ',' + str(score) + ',' + 'Non-Interaction\n'
         FinalLabel.append(StrResult)
     FinalLabel.append('\n')
     return FinalLabel
