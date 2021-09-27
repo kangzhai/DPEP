@@ -47,4 +47,4 @@ It can predict whether there has been interaction in the unlabeled miRNA-lncRNA 
 # Reference
 If you use the codes, please cite the reference as below.
 
-The paper has been submitted, please wait for updating.
+The paper has been accepted by Briefings in Bioinformatics, please wait for the link.
