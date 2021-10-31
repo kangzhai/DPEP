@@ -47,4 +47,4 @@ It can predict whether there has been interaction in the unlabeled miRNA-lncRNA 
 # Reference
 If you use the codes, please cite the reference as below.
 
-The paper has been accepted by Briefings in Bioinformatics, please wait for the link.
+Qiang Kang, Jun Meng, Chenglin Su, Yushi Luan. Mining plant endogenous target mimics from miRNA–lncRNA interactions based on dual-path parallel ensemble pruning method. Briefings in Bioinformatics. https://doi.org/10.1093/bib/bbab440
