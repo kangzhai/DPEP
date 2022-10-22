@@ -1,3 +1,5 @@
+Since my research, most of my resources have been shared for free. I have opened 13 repositories. For some important data and codes, I also provide friendly scholars in private. My dataset construction method and model structure have been described in detail in the paper. All experimental results are true and valid. Recently, an unidentified user attempted to obtain my private data and codes, and maliciously attacked me and my country. To this end, I will set some permissions and only provide important data and codes for friendly and cooperative users in private.
+
 # DPEP
 The related data and scoure codes of DPEP are provided by Q. Kang.
 
