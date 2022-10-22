@@ -1,5 +1,3 @@
-Since my research, most of my resources have been shared for free. I have opened 13 repositories. For some important data and codes, I also provide friendly scholars in private. My dataset construction method and model structure have been described in detail in the paper. All experimental results are true and valid. Recently, an unidentified user attempted to obtain my private data and codes, and maliciously attacked me and my country. To this end, I will set some permissions and only provide important data and codes for friendly and cooperative users in private.
-
 # DPEP
 The related data and scoure codes of DPEP are provided by Q. Kang.
 
@@ -45,3 +43,6 @@ Command: python DPEP.py
 Explanation:
 
 It can predict whether there has been interaction in the unlabeled miRNA-lncRNA pairs. It can quickly predict large-scale interactions by loading and integrating the trained base models. The users can adjust the path of input and output in "Path.py" to realize the prediction of local data. The input format must be consistent with that in the "Example" folder. This input format can be obtained directly through RNAfold in ViennaRNA package. The output is the predicted results, which lists miRNA name, lncRNA name, ensemble score and interaction/non-interaction. We will add more predicted information in future versions. To show the authenticity of the codes, we provide all 10 groups of base models mentioned in the paper. By default, 10 groups of base models independently predict the unlabeled samples and output the results. Due to the differences between the base models, the 10 groups of results will also vary. Users can comprehensively refer to these results, or manually adjust to use a group of base models for prediction. We will also integrate these results in future versions.
+
+# Statement
+Since my research, most of my resources have been shared for free. I have opened 13 repositories and shared my models and example data. For some important data and models, I also provide cooperative scholars in private. My dataset construction method and model structure have been described in detail in the paper. All experimental results are true and valid. However, an unidentified user attempted to obtain my private data and codes without any cost, and maliciously attacked my research and my country. To this end, I set some permissions, and only provide important data and codes for friendly and non anonymous scholars in private.
