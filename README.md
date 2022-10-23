@@ -29,9 +29,6 @@ Paths of input and output.
 ### DataProcessing.py
 Function of data processing.
 
-# Explanation
-Since my research, most of my resources have been shared for free. I have opened 13 repositories and shared my models and data. I have also provided my private and important data and codes to many scholars in private. I have described the dataset construction method and model structure in detail in the paper. Howerver, an unidentified user attempted to obtain my private data and codes by leaving issues rudely and offensively. To this end, I modified some permissions and temporarily closed the "issues". All scholars should communicate with each other with respect and courtesy.
-
 ### PredictionProcessing.py
 Function of prediction process.
 
